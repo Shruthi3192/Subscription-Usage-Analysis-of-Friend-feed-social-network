@@ -12,3 +12,6 @@ This pattern can latter be used to send out subscription suggestions to user wit
 
 
 To get the frequent item sets the FP growth operator has been used which in turn runs the FP growth algorithm on the binomial data.
+
+
+Fabio Celli, F. Marta L. Di Lascio, Matteo Magnani, Barbara Pacelli, and Luca Rossi. Social network data and practices: the case of friendfeed. In International Conference on Social Computing, Behavioral Modeling and Prediction, Lecture Notes in Computer Science. Springer, Berlin, 2010
